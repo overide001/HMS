@@ -275,7 +275,7 @@ const RegisterPage = () => {
 
           <div className="rp-logo">
             <IconHeartbeat size={30} stroke={2.5} className="rp-logo-icon" />
-            <span className="rp-logo-text">Pulse</span>
+            <span className="rp-logo-text">HAILMIND</span>
           </div>
 
           <h2 className="rp-heading">

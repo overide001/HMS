@@ -259,7 +259,7 @@ const LoginPage = () => {
 
           <div className="lp-logo">
             <IconHeartbeat size={36} stroke={2.5} className="lp-logo-icon" />
-            <span className="lp-logo-text">Pulse</span>
+            <span className="lp-logo-text">HAILMIND</span>
           </div>
 
           <h2 className="lp-heading">

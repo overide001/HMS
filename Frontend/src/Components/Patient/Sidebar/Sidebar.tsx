@@ -25,7 +25,7 @@ function Sidebar() {
         </div>
         <div className="leading-tight">
           <span className="block text-xl font-bold text-neutral-900">
-            Pulse
+            Hailmind
           </span>
           <span className="block text-xs font-medium text-neutral-500">
             Health Admin

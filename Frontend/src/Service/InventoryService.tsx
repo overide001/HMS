@@ -1,4 +1,3 @@
-
 import axiosInstance from "../Interceptor/AxiosInterceptor";
 
 const addStock = async (data: any) => {
